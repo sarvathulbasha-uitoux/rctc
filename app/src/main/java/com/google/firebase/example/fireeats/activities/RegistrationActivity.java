@@ -132,8 +132,6 @@ public class RegistrationActivity extends AppCompatActivity {
 
         rl_back_arrow.setOnClickListener(new View.OnClickListener() {
             @Override
-
-
             public void onClick(View view) {
                 onBackPressed();
             }
